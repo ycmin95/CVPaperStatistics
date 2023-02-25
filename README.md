@@ -6,12 +6,12 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
 
 ## Prerequisites
 
-[pandas](https://pandas.pydata.org/)
-[plotly](https://plotly.com/python/)
-[dash](https://dash.plotly.com/)
-[nltk](https://www.nltk.org/install.html)
+[pandas](https://pandas.pydata.org/)    
+[plotly](https://plotly.com/python/)    
+[dash](https://dash.plotly.com/)    
+[nltk](https://www.nltk.org/install.html)    
 
-## CVPR Paper Keywords statistics
+## CV Paper Keywords statistics
 
 Keywords are sorted in descending order:     
 
@@ -30,4 +30,4 @@ Step 2. Run the app:
 ```
 python app.py
 ``` 
-Step 3. Connect to the Plotly-Dash app 127.0.0.1:8050 in the browser (or ServerIP:SperificePort)
+Step 3. Connect to the Plotly-Dash app [127.0.0.1:8050](127.0.0.1:8050) in the browser (or ServerIP:SperificePort)
