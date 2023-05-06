@@ -1,6 +1,6 @@
 # CV-Paper-Statistics
 
-A simple tool to visualize the main keywords of accepted papers for the recent Computer Vision conferences (CVPR 2019-2022、ICCV 2019 & 2021).
+A simple tool to visualize the main keywords of accepted papers for the recent Computer Vision conferences (CVPR 2019-2022、ICCV 2019 & 2021、ECCV 2020 & 2022).
 
 Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-OpenReviewData) and [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-Paper-Statistics)
 
